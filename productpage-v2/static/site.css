@@ -1,0 +1,21 @@
+html,
+body {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-size: 24px;
+}
+
+.navbar-inverse {
+  background-image: linear-gradient(to bottom,#3F51B5 0,#5C6BC0 100%) !important;
+  background-color: #5C6BC0 !important;
+  border-color: #1A237E !important;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #212121;
+}
+
+body {
+  background-color: #E3F2FD;
+  border-bottom: 1px solid #2196F3;
+  justify-content: flex-end;
+}
